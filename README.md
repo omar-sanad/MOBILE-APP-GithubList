@@ -1,6 +1,6 @@
 # MOBILE-APP-GithubList
 
-<h3><u><b>the application is used to search for users on github using G itHub API </u></b></h3>
+<h3><u><b>the application is used to search github users using G itHub API </u></b></h3>
 
 <h5>First interface :</h5>
 </br>
