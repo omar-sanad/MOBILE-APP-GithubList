@@ -17,11 +17,14 @@
 
 <h5>Third interface :</h5>
 </br>
+
 <p align="center">
  <img src="screens/3.png" width="350" title="hover text">
 </p>
 
-<h5>Fourth interface : after clicking on user image it gonna be show more informations about their repository</h5>
+<h5>Fourth interface : </h5>
+</br>
+*after clicking on user image it gonna be show more informations about their repository
 <p align="center">
  <img src="screens/4.png" width="350" title="hover text">
 </p>
