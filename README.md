@@ -23,7 +23,7 @@
 </p>
 
 <h5>Fourth interface : </h5>
-**after clicking on user image it gonna be show more informations about their repository**
+after clicking on user image it gonna be show more informations about their repository
 </br>
 <p align="center">
  <img src="screens/4.png" width="350" title="hover text">
