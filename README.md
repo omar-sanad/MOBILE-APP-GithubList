@@ -21,7 +21,7 @@
  <img src="screens/3.png" width="350" title="hover text">
 </p>
 
-<h5>Fourth interface :</h5>
+<h5>Fourth interface : after clicking on user image it gonna be show more informations about their repository</h5>
 <p align="center">
  <img src="screens/4.png" width="350" title="hover text">
 </p>
